@@ -1,5 +1,5 @@
 '''
-Aiden Q
+CreeperKing77
 4/29/24
 Purpose: Automated scratch bot, with automated F4F
 
