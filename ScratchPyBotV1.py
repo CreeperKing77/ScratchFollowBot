@@ -12,8 +12,8 @@ import math #used for ceiling rounding in
 import datetime #used to check if necessary to update the WIWO, and for timestamps
 
 #logs into your account
-session = scratch3.login("F4F-Creeper", "ckbosss4")
-self = session.connect_user("F4F-Creeper")
+session = scratch3.login("username", "password")
+self = session.connect_user("username")
 
 
 #OPTIONAL: Prints out your 10 most recent follows and followers
